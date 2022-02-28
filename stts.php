@@ -1,1 +1,1 @@
-Atualizado man
+Atualizado.
