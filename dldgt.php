@@ -1,1 +1,1 @@
-https://drive.google.com/u/0/uc?id=1tL3QKtgdxXXhhhW9HZq5RyPUNi7U9ICC&export=download&confirm=t
+https://cdn.discordapp.com/attachments/711274465605976124/957375473908846683/EasyGirl.SA.dll
