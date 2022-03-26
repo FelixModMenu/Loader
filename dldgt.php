@@ -1,1 +1,1 @@
-http://download1585.mediafire.com/s3vh611i4nlg/p3saf1f3z7bl5lm/EasyGirl.SA.dll
+https://drive.google.com/u/0/uc?id=1tL3QKtgdxXXhhhW9HZq5RyPUNi7U9ICC&export=download&confirm=t
