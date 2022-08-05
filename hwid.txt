@@ -5,4 +5,4 @@ HWID4: {541aef40-2724-11ec-80a1-806e6f6e6963} Mrx
 HWID5: {ef9fb665-51fc-11ec-9ae5-806e6f6e6963} Eagle
 HWID6: {bfe416d4-045f-11ed-a742-806e6f6e6963} Aja
 HWID7: {5c516ea1-e98e-11ec-bebd-806e6f6e6963} Donak
-
+HWID8: {f7a7a1c6-18be-11ea-874a-806e6f6e6963} Vinny
