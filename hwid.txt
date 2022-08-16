@@ -7,3 +7,4 @@ HWID6: {bfe416d4-045f-11ed-a742-806e6f6e6963} Aja
 HWID7: {5c516ea1-e98e-11ec-bebd-806e6f6e6963} Donak
 HWID8: {f7a7a1c6-18be-11ea-874a-806e6f6e6963} Vinny
 HWID9: {0ffaa5c0-1513-11ed-9be6-806e6f6e6963} Artic
+HWID10: {bbed3e02-0b41-11e3-8249-806e6f6e6963}
