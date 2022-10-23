@@ -8,7 +8,7 @@ HWID7: {5c516ea1-e98e-11ec-bebd-806e6f6e6963} Donak
 HWID8: {f7a7a1c6-18be-11ea-874a-806e6f6e6963} Vinny
 HWID9: {0ffaa5c0-1513-11ed-9be6-806e6f6e6963} Artic
 HWID10: {e386da9d-57a6-11ec-9964-806e6f6e6963} PGRip
-HWID11: {0886aebf-1e9e-11ed-8e1e-806e6f6e6963} Gugga
+HWID11:  Gugga
 HWID12: {6f6d4d91-bcc9-11ec-8dec-806e6f6e6963} Peste 
 HWID13: {ef1e7850-4417-11ed-bc73-806e6f6e6963} Jhonlv
 HWID14: {9ec9de40-e009-11ec-a014-806e6f6e6963} Tester
