@@ -13,4 +13,3 @@ HWID12: {6f6d4d91-bcc9-11ec-8dec-806e6f6e6963} Peste
 HWID13: {ef1e7850-4417-11ed-bc73-806e6f6e6963} Jhonlv
 HWID14: {ca9f9d40-8fdb-11eb-ad96-806e6f6e6963} Dinho
 HWID15: {d2e6b9c0-2171-11ec-9eec-806e6f6e6963} me
-{22508e7a-4e1b-11ed-8fd0-806e6f6e6963}
