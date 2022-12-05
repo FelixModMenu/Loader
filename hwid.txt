@@ -17,3 +17,4 @@ hwid16: {5032fbff-6dc0-11ed-a031-806e6f6e6963} tester
 HWID17: {30211d08-645e-11ed-98fe-806e6f6e6963} DOMreis
 HWID18: {251a5eab-3a02-11ed-b506-806e6f6e6963} SDMatheus
 HWID19: {e7c104ef-00f0-11eb-9a32-806e6f6e6963} Depling
+HWID20: {0cf60824-19c3-11ed-8822-806e6f6e6963} vtaires
