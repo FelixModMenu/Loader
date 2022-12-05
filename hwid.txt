@@ -13,7 +13,7 @@ HWID12: {6f6d4d91-bcc9-11ec-8dec-806e6f6e6963} Peste
 HWID13: {ef1e7850-4417-11ed-bc73-806e6f6e6963} Jhonlv
 HWID14: {3f8169f0-6393-11ed-b8d5-806e6f6e6963} Dinho
 HWID15: {d2e6b9c0-2171-11ec-9eec-806e6f6e6963} me
-hwid16: {5032fbff-6dc0-11ed-a031-806e6f6e6963} tester
+hwid16: 
 HWID17: {30211d08-645e-11ed-98fe-806e6f6e6963} DOMreis
 HWID18: {251a5eab-3a02-11ed-b506-806e6f6e6963} SDMatheus
 HWID19: {e7c104ef-00f0-11eb-9a32-806e6f6e6963} Depling
