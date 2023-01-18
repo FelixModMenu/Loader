@@ -1,6 +1,7 @@
+
+
 HWID1: {55ff00a2-7d69-11ed-bcf0-806e6f6e6963} NM:Ajaax TY:0
 HWID2: {0ffaa5c0-1513-11ed-9be6-806e6f6e6963} NM:Artic TY:0
-HWID3: {e1ff991f-79cf-11ed-9f09-806e6f6e6963} NM:Owner TY:0
 HWID4: {6f6d4d91-bcc9-11ec-8dec-806e6f6e6963} NM:Peste TY:0
 HWID5: {ef1e7850-4417-11ed-bc73-806e6f6e6963} NM:Jhonata_Olv TY:0
 HWID6: {3f8169f0-6393-11ed-b8d5-806e6f6e6963} NM:DinhoKing TY:0
