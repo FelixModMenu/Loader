@@ -1,14 +1,14 @@
-HWIDNULO: {e1ff991f-79cf-11ed-9f09-806e6f6e6963}                            TY:0
+HWIDNULO: {e1ff991f-79cf-11ed-9f09-806e6f6e6963} NM:Owner                   TY:0
 
-HWID1: {55ff00a2-7d69-11ed-bcf0-806e6f6e6963} NM:Ajaax                      TY:0
-HWID2: {0ffaa5c0-1513-11ed-9be6-806e6f6e6963} NM:Artic                      TY:0
-HWID3: {6f6d4d91-bcc9-11ec-8dec-806e6f6e6963} NM:Peste                      TY:0
-HWID4: {ef1e7850-4417-11ed-bc73-806e6f6e6963} NM:Jhonata_Olv                TY:0
-HWID5: {3f8169f0-6393-11ed-b8d5-806e6f6e6963} NM:DinhoKing                  TY:0
-HWID6: {06ee6c06-2888-11ed-aedb-806e6f6e6963} NM:Guilhermao                 TY:0
-HWID7: {ca9f9d40-8fdb-11eb-ad96-806e6f6e6963} NM:Tester      DT:24/24/2024  TY:0
-HWID8: {df0101a7-7a5a-11ed-b3c6-806e6f6e6963} NM:DOM157                     TY:0
-HWID9: {251a5eab-3a02-11ed-b506-806e6f6e6963} NM:SDMatheus                  TY:0
+HWID1: {55ff00a2-7d69-11ed-bcf0-806e6f6e6963}  NM:Ajaax                     TY:0
+HWID2: {0ffaa5c0-1513-11ed-9be6-806e6f6e6963}  NM:Artic                     TY:0
+HWID3: {6f6d4d91-bcc9-11ec-8dec-806e6f6e6963}  NM:Peste                     TY:0
+HWID4: {ef1e7850-4417-11ed-bc73-806e6f6e6963}  NM:Jhonata_Olv               TY:0
+HWID5: {3f8169f0-6393-11ed-b8d5-806e6f6e6963}  NM:DinhoKing                 TY:0
+HWID6: {06ee6c06-2888-11ed-aedb-806e6f6e6963}  NM:Guilhermao                TY:0
+HWID7: {ca9f9d40-8fdb-11eb-ad96-806e6f6e6963}  NM:Tester     DT:24/24/2024  TY:0
+HWID8: {df0101a7-7a5a-11ed-b3c6-806e6f6e6963}  NM:DOM157                    TY:0
+HWID9: {251a5eab-3a02-11ed-b506-806e6f6e6963}  NM:SDMatheus                 TY:0
 HWID10: {e7c104ef-00f0-11eb-9a32-806e6f6e6963} NM:Depling                   TY:0
 HWID11: {0cf60824-19c3-11ed-8822-806e6f6e6963} NM:vtaires                   TY:0
 HWID12: {be045389-0915-11ed-91fc-806e6f6e6963} NM:PernaaLoonga              TY:0
