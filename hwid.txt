@@ -19,7 +19,7 @@ HWID16: {20942363-700d-11ec-9470-806e6f6e6963} NM:GodFather                 TY:0
 HWID17: {537bb714-87f1-11ed-b266-806e6f6e6963} NM:Liima                     TY:0
 HWID18: {8c1f06dc-9e82-11e9-b7d1-806e6f6e6963} NM:LSRalanrrzz DT:03/02/2023 TY:1
 HWID19: {2210f53a-8a89-11ed-9314-806e6f6e6963} NM:KILLER7                   TY:0
-HWID20: {01ac0148-5fb6-11ed-b129-806e6f6e6963} NM:RL          DT:20/01/2023 TY:2
+HWID20: {01ac0148-5fb6-11ed-b129-806e6f6e6963} NM:RL                        TY:0
 HWID21: {caee0ac0-b2b7-11ec-90c0-806e6f6e6963} NM:Barba.      DT:07/02/2023 TY:1
 HWID22: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963} NM:Charles³    DT:25/01/2023 TY:2
 HWID23: {8cbc6640-9374-11ed-82c9-806e6f6e6963} NM:Nikaazedof  DT:13/02/2023 TY:1
