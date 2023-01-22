@@ -33,3 +33,4 @@ HWID30: {5032fbff-6dc0-11ed-a031-806e6f6e6963} NM:DIOGO__     DT:26/01/2023 TY:2
 HWID31: {6db987ba-7c1f-11ed-9a23-806e6f6e6963} NM:Luiz                      TY:0
 HWID32: {c7345710-2fcd-11ed-a64f-806e6f6e6963} NM:tiaozim                   TY:0
 HWID33: {be182f26-18bf-11ea-86bf-806e6f6e6963} NM:PGRip                     TY:0
+HWID34: {903de240-259d-11eb-bc32-806e6f6e6963} NM:GORDINBOX   DT:29/01/2023 TY:2
