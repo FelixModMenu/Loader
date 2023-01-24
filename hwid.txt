@@ -34,4 +34,4 @@ HWID31: {6db987ba-7c1f-11ed-9a23-806e6f6e6963} NM:Luiz                        TY
 HWID32: {c7345710-2fcd-11ed-a64f-806e6f6e6963} NM:tiaozim                     TY:0
 HWID33: {be182f26-18bf-11ea-86bf-806e6f6e6963} NM:PGRip                       TY:0
 HWID34: {903de240-259d-11eb-bc32-806e6f6e6963} NM:GORDINBOX   DT:29/01/2023   TY:2
-HWID35: {4186c740-ba73-11ec-9c22-806e6f6e6963} NM:defunct     DT:23/02/2023   TY:1
+HWID35: {1390ea57-9b74-11ed-a7ab-806e6f6e6963} NM:defunct     DT:23/02/2023   TY:1
