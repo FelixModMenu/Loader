@@ -35,3 +35,5 @@ HWID32: {c7345710-2fcd-11ed-a64f-806e6f6e6963} NM:tiaozim                     TY
 HWID33: {be182f26-18bf-11ea-86bf-806e6f6e6963} NM:PGRip                       TY:0
 HWID34: {903de240-259d-11eb-bc32-806e6f6e6963} NM:GORDINBOX   DT:29/01/2023   TY:2
 HWID35: {1390ea57-9b74-11ed-a7ab-806e6f6e6963} NM:defunct     DT:23/02/2023   TY:1
+HWID36: {9359515f-732c-11ed-a6d6-806e6f6e6963} NM:Proff.Jacare DT:31/01/2023 TY:2
+
