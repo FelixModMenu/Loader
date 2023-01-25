@@ -21,21 +21,20 @@ HWID18: {8c1f06dc-9e82-11e9-b7d1-806e6f6e6963} NM:LSRalanrrzz   DT:03/02/2023 TY
 HWID19: {2210f53a-8a89-11ed-9314-806e6f6e6963} NM:KILLER7                     TY:0
 HWID20: {01ac0148-5fb6-11ed-b129-806e6f6e6963} NM:RL                          TY:0
 HWID21: {caee0ac0-b2b7-11ec-90c0-806e6f6e6963} NM:Barba.        DT:07/02/2023 TY:1
-HWID22: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963} NM:Charles³      DT:25/01/2023 TY:2
-HWID23: {8cbc6640-9374-11ed-82c9-806e6f6e6963} NM:Nikaazedof    DT:13/02/2023 TY:1
-HWID24: {4eb80bc0-9102-11ed-bfd5-806e6f6e6963} NM:Kelvao                      TY:0
-HWID25: {6758540a-5ba2-11ed-932b-806e6f6e6963} NM:lowell                      TY:0
-HWID26: {1e0a9be2-55aa-11ed-a225-806e6f6e6963} NM:LUK4S                       TY:0
-HWID27: {78c12cad-83e1-11ed-8170-806e6f6e6963} NM:YURIZIN.CRIPS DT:30/01/2023 TY:2
-HWID28: {d1743bf3-67fa-11ec-a29e-806e6f6e6963} NM:LUK4SPC2                    TY:0
-HWID29: {38b4d040-8fb1-11ec-919b-806e6f6e6963} NM:JhowBDP                     TY:0
-HWID30: {5032fbff-6dc0-11ed-a031-806e6f6e6963} NM:DIOGO__       DT:26/01/2023 TY:2
-HWID31: {6db987ba-7c1f-11ed-9a23-806e6f6e6963} NM:Luiz                        TY:0
-HWID32: {c7345710-2fcd-11ed-a64f-806e6f6e6963} NM:tiaozim                     TY:0
-HWID33: {be182f26-18bf-11ea-86bf-806e6f6e6963} NM:PGRip                       TY:0
-HWID34: {903de240-259d-11eb-bc32-806e6f6e6963} NM:GORDINBOX   DT:29/01/2023   TY:2
-HWID35: {1390ea57-9b74-11ed-a7ab-806e6f6e6963} NM:defunct     DT:23/02/2023   TY:1
-HWID36: {9359515f-732c-11ed-a6d6-806e6f6e6963} NM:Prof.Joras  DT:31/01/2023   TY:2
-HWID37: {d645e71f-8889-11ed-9641-806e6f6e6963} NM:afonso      DT:31/01/2023   TY:2
-HWID38: {db4bdac0-9b94-11ed-a7ea-806e6f6e6963} NM:xSurprise   DT:31/01/2023   TY:2
+HWID22: {8cbc6640-9374-11ed-82c9-806e6f6e6963} NM:Nikaazedof    DT:13/02/2023 TY:1
+HWID23: {4eb80bc0-9102-11ed-bfd5-806e6f6e6963} NM:Kelvao                      TY:0
+HWID24: {6758540a-5ba2-11ed-932b-806e6f6e6963} NM:lowell                      TY:0
+HWID25: {1e0a9be2-55aa-11ed-a225-806e6f6e6963} NM:LUK4S                       TY:0
+HWID26: {78c12cad-83e1-11ed-8170-806e6f6e6963} NM:YURIZIN.CRIPS DT:30/01/2023 TY:2
+HWID27: {d1743bf3-67fa-11ec-a29e-806e6f6e6963} NM:LUK4SPC2                    TY:0
+HWID28: {38b4d040-8fb1-11ec-919b-806e6f6e6963} NM:JhowBDP                     TY:0
+HWID29: {5032fbff-6dc0-11ed-a031-806e6f6e6963} NM:DIOGO__       DT:26/01/2023 TY:2
+HWID30: {6db987ba-7c1f-11ed-9a23-806e6f6e6963} NM:Luiz                        TY:0
+HWID31: {c7345710-2fcd-11ed-a64f-806e6f6e6963} NM:tiaozim                     TY:0
+HWID32: {be182f26-18bf-11ea-86bf-806e6f6e6963} NM:PGRip                       TY:0
+HWID33: {903de240-259d-11eb-bc32-806e6f6e6963} NM:GORDINBOX   DT:29/01/2023   TY:2
+HWID34: {1390ea57-9b74-11ed-a7ab-806e6f6e6963} NM:defunct     DT:23/02/2023   TY:1
+HWID35: {9359515f-732c-11ed-a6d6-806e6f6e6963} NM:Prof.Joras  DT:31/01/2023   TY:2
+HWID36: {d645e71f-8889-11ed-9641-806e6f6e6963} NM:afonso      DT:31/01/2023   TY:2
+HWID37: {db4bdac0-9b94-11ed-a7ea-806e6f6e6963} NM:xSurprise   DT:31/01/2023   TY:2
 
