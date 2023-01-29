@@ -38,3 +38,4 @@ HWID36: {d645e71f-8889-11ed-9641-806e6f6e6963} NM:afonso      DT:31/01/2023   TY
 HWID37: {db4bdac0-9b94-11ed-a7ea-806e6f6e6963} NM:xSurprise   DT:31/01/2023   TY:2
 HWID38: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963} NM:Charles     DT:01/02/2023   TY:2
 HWID39: {eb29a003-622e-11ec-9b04-806e6f6e6963} NM:LukaoTL     DT:03/02/2023   TY:2
+HWID40: {1e13ccee-8588-11ed-b1ee-806e6f6e6963} NM:.NeXt_.     DT:05/02/2023   TY:2
