@@ -30,7 +30,7 @@ HWID27: {d1743bf3-67fa-11ec-a29e-806e6f6e6963} NM:LUK4SPC2                    TY
 HWID28: {38b4d040-8fb1-11ec-919b-806e6f6e6963} NM:JhowBDP                     TY:0
 HWID30: {6db987ba-7c1f-11ed-9a23-806e6f6e6963} NM:Luiz                        TY:0
 HWID31: {c7345710-2fcd-11ed-a64f-806e6f6e6963} NM:tiaozim                     TY:0
-
+HWID32: {be182f26-18bf-11ea-86bf-806e6f6e6963} NM:PGRip                       TY:0
 HWID34: {b9a25bc0-9dff-11ed-a7bb-806e6f6e6963} NM:defunct     DT:23/02/2023   TY:1
 HWID36: {e4467298-8758-11ed-bda6-806e6f6e6963} NM:PETARDO.    DT:28/02/2023   TY:1
 HWID38: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963} NM:Charles     DT:01/02/2023   TY:2
