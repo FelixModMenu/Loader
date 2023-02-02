@@ -25,7 +25,6 @@ HWID22: {8cbc6640-9374-11ed-82c9-806e6f6e6963} NM:Nikaazedof    DT:13/02/2023 TY
 HWID23: {4eb80bc0-9102-11ed-bfd5-806e6f6e6963} NM:Kelvao                      TY:0
 HWID24: {6758540a-5ba2-11ed-932b-806e6f6e6963} NM:lowell                      TY:0
 HWID25: {1e0a9be2-55aa-11ed-a225-806e6f6e6963} NM:LUK4S                       TY:0
-HWID26: {78c12cad-83e1-11ed-8170-806e6f6e6963} NM:YURIZIN.CRIPS DT:30/01/2023 TY:2
 HWID27: {d1743bf3-67fa-11ec-a29e-806e6f6e6963} NM:LUK4SPC2                    TY:0
 HWID28: {38b4d040-8fb1-11ec-919b-806e6f6e6963} NM:JhowBDP                     TY:0
 HWID30: {6db987ba-7c1f-11ed-9a23-806e6f6e6963} NM:Luiz                        TY:0
