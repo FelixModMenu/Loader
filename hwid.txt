@@ -36,4 +36,3 @@ HWID33: {eb29a003-622e-11ec-9b04-806e6f6e6963} NM:LukaoTL         DT:03/02/2023 
 HWID34: {1e13ccee-8588-11ed-b1ee-806e6f6e6963} NM:.NeXt_.         DT:05/02/2023   TY:2
 HWID35: {db4bdac0-9b94-11ed-a7ea-806e6f6e6963} NM:xSurprise       DT:02/03/2023   TY:1
 HWID36: {9359515f-732c-11ed-a6d6-806e6f6e6963} NM:Prof.Joras      DT:03/03/2023   TY:1
-HWID37: {fcc73e97-0b03-11e3-9710-806e6f6e6963} NM:Stupendoustein  DT:03/03/2023   TY:2
