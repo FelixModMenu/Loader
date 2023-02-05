@@ -33,3 +33,4 @@ HWID29: {e4467298-8758-11ed-bda6-806e6f6e6963}  NM:PETARDO.        DT:28/02/2023
 HWID30: {1e13ccee-8588-11ed-b1ee-806e6f6e6963}  NM:.NeXt_.         DT:05/02/2023   TY:2
 HWID31: {db4bdac0-9b94-11ed-a7ea-806e6f6e6963}  NM:xSurprise       DT:02/03/2023   TY:1
 HWID32: {9359515f-732c-11ed-a6d6-806e6f6e6963}  NM:Prof.Joras      DT:03/03/2023   TY:1
+HWID33: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963}  NM:Charles³        DT:04/03/2023   TY:1
